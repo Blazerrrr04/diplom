@@ -1,0 +1,42 @@
+ [
+    {
+        "id": 1,
+        "title": "Підписка на Meta Quest+ (1 місяць)",
+        "description": "Доступ до всіх функцій VR-простору на 1 місяць.",
+        "price": "7.99",
+        "image": "/img/vr_subscription_1.webp",
+        "url": "https://www.meta.com/experiences/view/1321443348416166/"
+    },
+    {
+        "id": 2,
+        "title": "Підписка на Meta Quest+ (3 місяці)",
+        "description": "Доступ до всіх функцій VR-простору на 3 місяці.",
+        "price": "19.99",
+        "image": "/img/vr_subscription_1.webp",
+        "url": "https://www.meta.com/experiences/view/1321443348416166/"
+    },
+    {
+        "id": 3,
+        "title": "Підписка на Meta Quest+ (1 рік)",
+        "description": "Доступ до всіх функцій VR-простору на 1 рік.",
+        "price": "59.99",
+        "image": "/img/vr_subscription_1.webp",
+        "url": "https://www.meta.com/experiences/view/1321443348416166/"
+    },
+    {
+        "id": 4,
+        "title": "VR-гарнітура Meta Quest 2",
+        "description": "Окуляри для віртуальної реальності.",
+        "price": "350",
+        "image": "/img/oculus-quest.jpeg",
+        "url": "https://www.meta.com/ru-ru/help/quest/930077757778362/?srsltid=AfmBOop29_tArjoimpMV4owf3k_JoY210kYlupB8hedGuY8vG982fHgj"
+    },
+    {
+        "id": 5,
+        "title": "Контролер для VR Meta Quest 2",
+        "description": "Ергономічний контролер для VR-простору.",
+        "price": "150",
+        "image": "/img/controller.jpg",
+        "url": "https://www.meta.com/help/quest/1287152312118084/?srsltid=AfmBOorKiDS73-BKa917WmHMPuCtvsOVF-i4MgdEcJZj2pLGLouC-yOz"
+    }
+]
